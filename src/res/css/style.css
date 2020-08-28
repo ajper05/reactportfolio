@@ -1,0 +1,80 @@
+*{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.navbar-brand{
+  padding: 0;
+  margin:0;
+  border: 0;
+  height: 80px;
+  width: 80px;
+}
+
+
+.navbar{
+  background-color: lightslategray;
+}
+
+p{
+  padding: 25px;
+  border-radius: 25px;
+  font-size: 20px;
+}
+
+body{
+  background-image: url(https://2qibqm39xjt6q46gf1rwo2g1-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/10158974_web1_L1WallaceFalls-EDH-180119.jpg);
+  background-repeat: no-repeat;
+}
+
+h1{
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+.card{
+  margin:25px;
+  background-color: rgba(207, 164, 84, 0.692);
+
+}
+
+.card-text{
+  background-color: transparent;
+}
+
+.container{
+  background-color: lightslategray;
+  border-radius: 25px;
+  margin-top: 25px;
+}
+
+#h1Under{
+  padding:0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.btn{
+  background-color: rgb(16, 25, 105);
+  border-color: rgb(16, 25, 105); ;
+}
+
+h2.ghicon:before{
+  content:url(https://img.icons8.com/metro/2x/github.png);
+}
+
+h2.inicon:before{
+  content:url(https://img.icons8.com/android/2x/linkedin.png)
+}
+
+a{
+  color: orange;
+}
+
+footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: lightslategray  ;
+  color: rgba(255,255,255,.5);
+}
